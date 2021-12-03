@@ -1,2 +1,2 @@
 # word2vec
-Just another implementation of Word2Vec (CBOW and Continuous Bag of Words)
+Just another Word2Vec implementations (CBOW and Skip-Gram)
